@@ -59,7 +59,7 @@ public class GameMenu extends JFrame
 
 		// window settings
 		this.setVisible(true);
-		this.setSize(500,900);
+		this.setSize(490,800);
 		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		this.setLocationRelativeTo(null);
 		this.setResizable(false);
